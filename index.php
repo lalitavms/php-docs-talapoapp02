@@ -1,3 +1,3 @@
 <?php
 
-echo "TalapoAPP01!";
+echo "TalapoAPP02!";
